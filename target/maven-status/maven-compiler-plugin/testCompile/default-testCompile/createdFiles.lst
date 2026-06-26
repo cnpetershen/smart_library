@@ -1,0 +1,5 @@
+com\library\smart\PasswordHashTest.class
+com\library\smart\AuthIntegrationTest.class
+GenHash.class
+PasswordHashGenerator.class
+com\library\smart\BusinessIntegrationTest.class
