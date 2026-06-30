@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:/项目/智慧图书馆/smart-library-ui/.env\"*)"
+    ]
+  }
+}

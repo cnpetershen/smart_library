@@ -1,0 +1,1 @@
+ALTER TABLE t_ai_report ADD COLUMN title VARCHAR(255) DEFAULT NULL COMMENT '报告标题' AFTER report_type;

@@ -1,0 +1,28 @@
+# Uploaded files
+uploads/
+
+# Java build outputs
+target/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Frontend dependencies
+node_modules/
+dist/
+
+# Environment files
+.env.local
+.env.*.local
